@@ -20,4 +20,4 @@
 **Внимание!** Лицензия [CD Project RED — Fan Content Guideline](https://cdprojektred.com/en/fan-content)
 
 1. [FoxRPG: Cyberpunk Base](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/cyberpunk/FoxRPG%20Cyberpunk%20Base.md)
-2. [Маленький лист персонажа](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/cyberpunk/small%20charsheet.pdf)
+2. [Заполняемый лист персонажа](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/cyberpunk/fillable%20charsheet%20A5.pdf)
