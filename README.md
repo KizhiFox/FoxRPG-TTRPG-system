@@ -9,6 +9,7 @@
 1. [FoxRPG: CORE](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/core/FoxRPG%20CORE.md)
 2. [FoxRPG: Basic Battle](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/core/FoxRPG%20Basic%20Battle.md)
 3. [FoxRPG: Basic Armor and Damage](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/core/FoxRPG%20Basic%20Armor%20and%20Damage.md)
+4. [FoxRPG: Basic Vehicles](https://github.com/KizhiFox/FoxRPG-TTRPG-system/blob/main/core/FoxRPG%20Basic%20Vehicles.md)
 
 ### Правила боя на карте
 
