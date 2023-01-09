@@ -4,7 +4,7 @@
 *Зависимости:*  
 *> CORE by KizhiFox*  
 *Автор: KizhiFox*  
-*Лицензия [CC BY⁠-⁠SA 4⁠.⁠0](https://creativecommons.org/licenses/by-sa/4.0/)*  
+*Лицензия [CC BY⁠-⁠SA 4⁠.⁠0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 
 ## Ход сражения
 
