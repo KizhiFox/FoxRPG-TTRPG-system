@@ -1,11 +1,10 @@
 # FoxRPG: Cyberpunk Base
 
 *Версия PLAYTEST*  
+*Автор: KizhiFox*  
 *Зависимости:*  
 *> Basic Armor and Damage by KizhiFox*  
-*Автор: KizhiFox*  
-*Лицензия:*  
-*[CD Project RED — Fan Content Guideline](https://cdprojektred.com/en/fan-content)*  
+*Лицензия: [CD Project RED — Fan Content Guideline](https://cdprojektred.com/en/fan-content)*  
 *(кратко: не для коммерческого использования)*
 
 ## Кратко о модуле
