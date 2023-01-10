@@ -1,11 +1,11 @@
 # FoxRPG: Basic Vehicles
 
 *Версия PLAYTEST*  
+*Автор: KizhiFox*  
 *Зависимости:*  
 *> FoxRPG Basic Battle by KizhiFox*  
 *или*  
-*> FoxRPG Basic Armor and Damage by KizhiFox*  
-*Автор: KizhiFox*
+*> FoxRPG Basic Armor and Damage by KizhiFox*
 
 Этот модуль добавляет правила для создания различных транспортных средств, от лошадей до космических кораблей.
 
