@@ -1,9 +1,9 @@
 # FoxRPG: Basic Battle
 
 *Версия PLAYTEST*  
+*Автор: KizhiFox*  
 *Зависимости:*  
-*> CORE by KizhiFox*  
-*Автор: KizhiFox*
+*> CORE by KizhiFox*
 
 ## Ход сражения
 
