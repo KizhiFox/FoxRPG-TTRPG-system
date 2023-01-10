@@ -3,8 +3,7 @@
 *Версия PLAYTEST*  
 *Автор: KizhiFox*  
 *Зависимости:*  
-*> Basic Battle by KizhiFox*  
-*Лицензия [CC BY⁠-⁠SA 4⁠.⁠0](https://creativecommons.org/licenses/by-sa/4.0/)*
+*> Basic Battle by KizhiFox*
 
 Правила боя на квадратной карте.
 
