@@ -1,9 +1,9 @@
 # FoxRPG: Basic Armor and Damage
 
 *Версия PLAYTEST*  
+*Автор: KizhiFox*  
 *Зависимости:*  
-*> Basic Battle by KizhiFox*  
-*Автор: KizhiFox*
+*> Basic Battle by KizhiFox*
 
 ## Типы урона
 
